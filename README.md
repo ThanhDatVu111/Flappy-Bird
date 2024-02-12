@@ -13,7 +13,7 @@ Leaderboard: Compete with friends or fellow developers to claim the top spot on 
 Clone the repository to your local machine.
 Install the required dependencies using pip install -r requirements.txt.
 Run the game with python flappy_bird.py.
-Tap the screen or press the spacebar to keep the bird afloat and navigate through the pipes.
+Left-click the mouse to keep the bird afloat and navigate through the pipes.
 Challenge yourself to achieve the highest score possible!
 
 # Contributing:
